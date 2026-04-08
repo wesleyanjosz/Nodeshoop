@@ -34,6 +34,41 @@ p {
     color: #777;
 }
 
+/*header*/
+.header {
+    width: 100%;
+    float: left;
+    padding: 50px 8%;
+    background-color: #13c7ae;
+}
+
+.logo a {
+    width: 221px;
+    height: 48px;
+    float: left;
+    background: url(../images/logo.png) no-repeat;
+    font-size: 0;
+}
+
+.header form {
+    width: 30%;
+    float: right;
+}
+
+.header input[type="text"] {
+    width: 85%;
+    float: left;
+    padding: 15px 10px;
+}
+
+.header button {
+    width: 15%;
+    float: right;
+    padding: 15px;
+    background-color: #0cae98;
+    color: #fff;
+    cursor: pointer;
+}
 
 /* .open-sans {
   font-family: "Open Sans", sans-serif;
