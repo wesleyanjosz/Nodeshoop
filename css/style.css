@@ -217,6 +217,20 @@ p {
     cursor: pointer;
 }
 
+/*footer*/
+
+.footer {
+    width: 100%;
+    float: left;
+    background-color: #13c7ae;
+    padding: 20px 8%;
+}
+
+.footer p {
+    color: #fff;
+    text-align: center;
+}
+
 /* .open-sans {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
