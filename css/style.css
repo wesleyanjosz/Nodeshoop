@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/*reset*/
+/* reset */
 * {
     margin: 0;
     padding: 0;
@@ -34,7 +34,7 @@ p {
     color: #777;
 }
 
-/*header*/
+/* header */
 .header {
     width: 100%;
     float: left;
@@ -72,7 +72,7 @@ p {
     border-radius: 0 5px 5px 0;
 }
 
-/*menu*/
+/* menu */
 .menu {
     width: 100%;
     float: left;
@@ -93,7 +93,7 @@ p {
     color: #fff;
 }
 
-/*social-icons*/
+/* social-icons */
 .social-icons {
     float: right;
 }
@@ -116,8 +116,7 @@ p {
     color: #d73d32;
 }
 
-/*main*/
-
+/* main */
 .main {
     width: 100%;
     float: left;
@@ -145,7 +144,7 @@ p {
     text-align: justify;
 }
 
-/*aside*/
+/* aside */
 .location {
     width: 30%;
     float: right;
@@ -173,7 +172,7 @@ p {
     margin-right: 5px;
 }
 
-/*newsletter*/
+/* newsletter */
 .newsletter {
     width: 100%;
     float: left;
@@ -217,8 +216,7 @@ p {
     cursor: pointer;
 }
 
-/*footer*/
-
+/* footer */
 .footer {
     width: 100%;
     float: left;
@@ -230,12 +228,3 @@ p {
     color: #fff;
     text-align: center;
 }
-
-/* .open-sans {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-} */
